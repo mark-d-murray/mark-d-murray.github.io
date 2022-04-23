@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark D Murray</title>
+    <description>Personal Website</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <author>
+      <name>Mark</name>
+      <email>mark@markdmurray.com</email>
+      <uri>https://mark-d-murray.github.io</uri>
+    </author>
+    
+      <item>
+        <title>Test Blog Post</title>
+        <description>&lt;p&gt;Test Post&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jan 1971 00:00:00 +0100</pubDate>
+        <link>//Test-Blog-Post.html</link>
+        <link href="/Test-Blog-Post.html"/>
+        <guid isPermaLink="true">/Test-Blog-Post.html</guid>
+      </item>
+    
+  </channel>
+</rss>
